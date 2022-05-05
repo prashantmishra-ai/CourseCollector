@@ -1,0 +1,2361 @@
+1650558946719	geckodriver	INFO	Listening on 127.0.0.1:39089
+1650558947743	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile9PBbt9"
+*** You are running in headless mode.
+
+(firefox:19926): Gtk-WARNING **: 16:35:47.805: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650558948010	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9PBbt9/search.json.mozlz4", (void 0)))
+1650558948888	Marionette	INFO	Listening on port 42275
+1650558948961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650558960540	Marionette	INFO	Stopped listening on port 42275
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650559213685	geckodriver	INFO	Listening on 127.0.0.1:59191
+1650559213687	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileIQWW9C"
+*** You are running in headless mode.
+
+(firefox:21050): Gtk-WARNING **: 16:40:13.705: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650559213895	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIQWW9C/search.json.mozlz4", (void 0)))
+1650559214707	Marionette	INFO	Listening on port 40501
+1650559214807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650559222649	Marionette	INFO	Stopped listening on port 40501
+1650559632209	geckodriver	INFO	Listening on 127.0.0.1:47641
+1650559632212	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile6nTBPK"
+*** You are running in headless mode.
+
+(firefox:22383): Gtk-WARNING **: 16:47:12.231: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650559632414	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6nTBPK/search.json.mozlz4", (void 0)))
+1650559633186	Marionette	INFO	Listening on port 42985
+1650559633234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650559643114	Marionette	INFO	Stopped listening on port 42985
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650559892073	geckodriver	INFO	Listening on 127.0.0.1:57679
+1650559892076	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilelwGHMl"
+*** You are running in headless mode.
+
+(firefox:23102): Gtk-WARNING **: 16:51:32.093: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650559892278	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelwGHMl/search.json.mozlz4", (void 0)))
+1650559893087	Marionette	INFO	Listening on port 41513
+1650559893191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650559901241	Marionette	INFO	Stopped listening on port 41513
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650560092472	geckodriver	INFO	Listening on 127.0.0.1:53029
+1650560092474	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile0Gr64p"
+*** You are running in headless mode.
+
+(firefox:23984): Gtk-WARNING **: 16:54:52.493: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650560092685	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Gr64p/search.json.mozlz4", (void 0)))
+1650560093443	Marionette	INFO	Listening on port 44209
+1650560093526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650560100989	Marionette	INFO	Stopped listening on port 44209
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650605783312	geckodriver	INFO	Listening on 127.0.0.1:40995
+1650605784332	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilenqUuSo"
+*** You are running in headless mode.
+
+(firefox:3877): Gtk-WARNING **: 05:36:24.386: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650605784583	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenqUuSo/search.json.mozlz4", (void 0)))
+1650605785419	Marionette	INFO	Listening on port 34593
+1650605785462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650605795393	Marionette	INFO	Stopped listening on port 34593
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650606080544	geckodriver	INFO	Listening on 127.0.0.1:44211
+1650606080551	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileVMbEQI"
+*** You are running in headless mode.
+
+(firefox:5052): Gtk-WARNING **: 05:41:20.569: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650606080772	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVMbEQI/search.json.mozlz4", (void 0)))
+1650606081599	Marionette	INFO	Listening on port 39505
+1650606081665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650606089500	Marionette	INFO	Stopped listening on port 39505
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650606149883	geckodriver	INFO	Listening on 127.0.0.1:59509
+1650606149888	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile0866Sm"
+*** You are running in headless mode.
+
+(firefox:5716): Gtk-WARNING **: 05:42:29.907: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650606150095	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0866Sm/search.json.mozlz4", (void 0)))
+1650606150867	Marionette	INFO	Listening on port 43127
+1650606150903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650606158335	Marionette	INFO	Stopped listening on port 43127
+1650606181311	geckodriver	INFO	Listening on 127.0.0.1:48779
+1650606181317	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileA7wuag"
+*** You are running in headless mode.
+
+(firefox:6465): Gtk-WARNING **: 05:43:01.340: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650606181562	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA7wuag/search.json.mozlz4", (void 0)))
+1650606182361	Marionette	INFO	Listening on port 40859
+1650606182431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650606190724	Marionette	INFO	Stopped listening on port 40859
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650606259061	geckodriver	INFO	Listening on 127.0.0.1:55041
+1650606259065	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileJf8Kv0"
+*** You are running in headless mode.
+
+(firefox:7043): Gtk-WARNING **: 05:44:19.085: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650606259273	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJf8Kv0/search.json.mozlz4", (void 0)))
+1650606260027	Marionette	INFO	Listening on port 41195
+1650606260077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650606266266	Marionette	INFO	Stopped listening on port 41195
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650640917484	geckodriver	INFO	Listening on 127.0.0.1:40091
+1650640918502	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilemr6azt"
+*** You are running in headless mode.
+
+(firefox:6065): Gtk-WARNING **: 20:51:58.522: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650640918714	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemr6azt/search.json.mozlz4", (void 0)))
+1650640919480	Marionette	INFO	Listening on port 37409
+1650640919517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650640968993	geckodriver	INFO	Listening on 127.0.0.1:60033
+1650640968996	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilehWxGWz"
+*** You are running in headless mode.
+
+(firefox:6729): Gtk-WARNING **: 20:52:49.015: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650640969197	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehWxGWz/search.json.mozlz4", (void 0)))
+1650640969950	Marionette	INFO	Listening on port 35997
+1650640970046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650640976155	Marionette	INFO	Stopped listening on port 35997
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650641059202	geckodriver	INFO	Listening on 127.0.0.1:53171
+1650641059205	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilensnx9Y"
+*** You are running in headless mode.
+
+(firefox:7621): Gtk-WARNING **: 20:54:19.222: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650641059405	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilensnx9Y/search.json.mozlz4", (void 0)))
+1650641060153	Marionette	INFO	Listening on port 44961
+1650641060255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650641369255	geckodriver	INFO	Listening on 127.0.0.1:45821
+1650641369258	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilePEOYSM"
+*** You are running in headless mode.
+
+(firefox:10986): Gtk-WARNING **: 20:59:29.277: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650641369461	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePEOYSM/search.json.mozlz4", (void 0)))
+1650641370248	Marionette	INFO	Listening on port 32847
+1650641370271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650641521307	geckodriver	INFO	Listening on 127.0.0.1:47509
+1650641521309	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileyxukhO"
+*** You are running in headless mode.
+
+(firefox:12322): Gtk-WARNING **: 21:02:01.328: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650641521529	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyxukhO/search.json.mozlz4", (void 0)))
+1650641522338	Marionette	INFO	Listening on port 36565
+1650641522424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650641551895	geckodriver	INFO	Listening on 127.0.0.1:35473
+1650641551898	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile67gYLb"
+*** You are running in headless mode.
+
+(firefox:13066): Gtk-WARNING **: 21:02:31.921: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650641552113	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile67gYLb/search.json.mozlz4", (void 0)))
+1650641552926	Marionette	INFO	Listening on port 42123
+1650641553041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650641561457	Marionette	INFO	Stopped listening on port 42123
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RemoveDynEntriesFromActiveSessionHistoryEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_SynchronizeLayoutHistoryState) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PBrowserBridge::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650641770984	geckodriver	INFO	Listening on 127.0.0.1:55967
+1650641770987	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileinirF4"
+*** You are running in headless mode.
+
+(firefox:14796): Gtk-WARNING **: 21:06:11.007: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650641771193	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileinirF4/search.json.mozlz4", (void 0)))
+1650641771972	Marionette	INFO	Listening on port 39113
+1650641772004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650641812847	geckodriver	INFO	Listening on 127.0.0.1:52211
+1650641812850	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilefZS0qK"
+*** You are running in headless mode.
+
+(firefox:15609): Gtk-WARNING **: 21:06:52.870: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650641813053	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefZS0qK/search.json.mozlz4", (void 0)))
+1650641813896	Marionette	INFO	Listening on port 34543
+1650641813967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650641822645	Marionette	INFO	Stopped listening on port 34543
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650642827393	geckodriver	INFO	Listening on 127.0.0.1:59765
+1650642827396	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilePOkU3w"
+*** You are running in headless mode.
+
+(firefox:18664): Gtk-WARNING **: 21:23:47.416: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650642827604	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePOkU3w/search.json.mozlz4", (void 0)))
+1650642828335	Marionette	INFO	Listening on port 46357
+1650642828432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642830839	Marionette	INFO	Stopped listening on port 46357
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650642842905	geckodriver	INFO	Listening on 127.0.0.1:46817
+1650642842908	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilejn2g07"
+*** You are running in headless mode.
+
+(firefox:19152): Gtk-WARNING **: 21:24:02.926: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650642843111	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejn2g07/search.json.mozlz4", (void 0)))
+1650642843900	Marionette	INFO	Listening on port 42657
+1650642843920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642851411	Marionette	INFO	Stopped listening on port 42657
+1650642880280	geckodriver	INFO	Listening on 127.0.0.1:59977
+1650642880284	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileqvA8fx"
+*** You are running in headless mode.
+
+(firefox:19681): Gtk-WARNING **: 21:24:40.303: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650642880490	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqvA8fx/search.json.mozlz4", (void 0)))
+1650642881297	Marionette	INFO	Listening on port 39807
+1650642881399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642887494	Marionette	INFO	Stopped listening on port 39807
+1650642907280	geckodriver	INFO	Listening on 127.0.0.1:56989
+1650642907283	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileEaDXXi"
+*** You are running in headless mode.
+
+(firefox:20411): Gtk-WARNING **: 21:25:07.303: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650642907491	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEaDXXi/search.json.mozlz4", (void 0)))
+1650642908247	Marionette	INFO	Listening on port 45587
+1650642908298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642931227	geckodriver	INFO	Listening on 127.0.0.1:48543
+1650642931230	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile6EE5eI"
+*** You are running in headless mode.
+
+(firefox:21445): Gtk-WARNING **: 21:25:31.248: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650642931436	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6EE5eI/search.json.mozlz4", (void 0)))
+1650642932187	Marionette	INFO	Listening on port 38653
+1650642932243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642968737	geckodriver	INFO	Listening on 127.0.0.1:39117
+1650642968740	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNIQ1H5"
+*** You are running in headless mode.
+
+(firefox:22254): Gtk-WARNING **: 21:26:08.760: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650642968947	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNIQ1H5/search.json.mozlz4", (void 0)))
+1650642969705	Marionette	INFO	Listening on port 34167
+1650642969754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650642977135	Marionette	INFO	Stopped listening on port 34167
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650642990931	geckodriver	INFO	Listening on 127.0.0.1:50481
+1650642990934	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilewzP5pA"
+*** You are running in headless mode.
+
+(firefox:22799): Gtk-WARNING **: 21:26:30.952: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650642991153	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewzP5pA/search.json.mozlz4", (void 0)))
+1650642991910	Marionette	INFO	Listening on port 38619
+1650642991948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643001222	Marionette	INFO	Stopped listening on port 38619
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650643177320	geckodriver	INFO	Listening on 127.0.0.1:40071
+1650643177322	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileZyUinw"
+*** You are running in headless mode.
+
+(firefox:24135): Gtk-WARNING **: 21:29:37.341: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643177526	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZyUinw/search.json.mozlz4", (void 0)))
+1650643178291	Marionette	INFO	Listening on port 33193
+1650643178336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643219854	geckodriver	INFO	Listening on 127.0.0.1:42511
+1650643219857	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileDmBHbw"
+*** You are running in headless mode.
+
+(firefox:24859): Gtk-WARNING **: 21:30:19.877: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643220072	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDmBHbw/search.json.mozlz4", (void 0)))
+1650643220800	Marionette	INFO	Listening on port 45985
+1650643220890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643223094	Marionette	INFO	Stopped listening on port 45985
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650643374654	geckodriver	INFO	Listening on 127.0.0.1:45903
+1650643374657	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileLqv52b"
+*** You are running in headless mode.
+
+(firefox:26177): Gtk-WARNING **: 21:32:54.675: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643374858	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLqv52b/search.json.mozlz4", (void 0)))
+1650643375615	Marionette	INFO	Listening on port 35267
+1650643375679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643383818	Marionette	INFO	Stopped listening on port 35267
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650643398983	geckodriver	INFO	Listening on 127.0.0.1:52253
+1650643398985	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileAxluIb"
+*** You are running in headless mode.
+
+(firefox:26705): Gtk-WARNING **: 21:33:19.004: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643399189	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAxluIb/search.json.mozlz4", (void 0)))
+1650643399957	Marionette	INFO	Listening on port 43129
+1650643399998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643407471	Marionette	INFO	Stopped listening on port 43129
+1650643565208	geckodriver	INFO	Listening on 127.0.0.1:48259
+1650643565211	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileHHSXX5"
+*** You are running in headless mode.
+
+(firefox:27598): Gtk-WARNING **: 21:36:05.230: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643565417	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHHSXX5/search.json.mozlz4", (void 0)))
+1650643566229	Marionette	INFO	Listening on port 45831
+1650643566323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650643576754	geckodriver	INFO	Listening on 127.0.0.1:57275
+1650643576756	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileRW6OSM"
+*** You are running in headless mode.
+
+(firefox:28311): Gtk-WARNING **: 21:36:16.776: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643576967	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRW6OSM/search.json.mozlz4", (void 0)))
+1650643577766	Marionette	INFO	Listening on port 33059
+1650643577868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643585432	Marionette	INFO	Stopped listening on port 33059
+1650643612816	geckodriver	INFO	Listening on 127.0.0.1:53261
+1650643612819	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilevArT4R"
+*** You are running in headless mode.
+
+(firefox:29126): Gtk-WARNING **: 21:36:52.837: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643613025	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevArT4R/search.json.mozlz4", (void 0)))
+1650643613806	Marionette	INFO	Listening on port 38005
+1650643613834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643621283	Marionette	INFO	Stopped listening on port 38005
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650643626286	geckodriver	INFO	Listening on 127.0.0.1:34191
+1650643626289	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilexZIZcx"
+*** You are running in headless mode.
+
+(firefox:29594): Gtk-WARNING **: 21:37:06.308: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643626493	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexZIZcx/search.json.mozlz4", (void 0)))
+1650643627305	Marionette	INFO	Listening on port 33829
+1650643627402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643634554	Marionette	INFO	Stopped listening on port 33829
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650643645811	geckodriver	INFO	Listening on 127.0.0.1:59095
+1650643645814	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileWOIxVg"
+*** You are running in headless mode.
+
+(firefox:30095): Gtk-WARNING **: 21:37:25.834: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643646021	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWOIxVg/search.json.mozlz4", (void 0)))
+1650643646830	Marionette	INFO	Listening on port 45973
+1650643646983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643656761	Marionette	INFO	Stopped listening on port 45973
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RemoveDynEntriesFromActiveSessionHistoryEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_SynchronizeLayoutHistoryState) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650643674444	geckodriver	INFO	Listening on 127.0.0.1:53543
+1650643674447	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileUFMo5w"
+*** You are running in headless mode.
+
+(firefox:30737): Gtk-WARNING **: 21:37:54.467: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643674655	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUFMo5w/search.json.mozlz4", (void 0)))
+1650643675473	Marionette	INFO	Listening on port 46027
+1650643675580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643682770	Marionette	INFO	Stopped listening on port 46027
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650643695562	geckodriver	INFO	Listening on 127.0.0.1:45469
+1650643695565	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileQMO12r"
+*** You are running in headless mode.
+
+(firefox:31254): Gtk-WARNING **: 21:38:15.584: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650643695769	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQMO12r/search.json.mozlz4", (void 0)))
+1650643696554	Marionette	INFO	Listening on port 41077
+1650643696579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650643703857	Marionette	INFO	Stopped listening on port 41077
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650644022116	geckodriver	INFO	Listening on 127.0.0.1:58569
+1650644022119	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilebULeFG"
+*** You are running in headless mode.
+
+(firefox:32822): Gtk-WARNING **: 21:43:42.139: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644022325	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebULeFG/search.json.mozlz4", (void 0)))
+1650644023154	Marionette	INFO	Listening on port 40489
+1650644023231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650644026151	Marionette	INFO	Stopped listening on port 40489
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650644055312	geckodriver	INFO	Listening on 127.0.0.1:34377
+1650644055315	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilePYne49"
+*** You are running in headless mode.
+
+(firefox:33263): Gtk-WARNING **: 21:44:15.333: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644055519	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePYne49/search.json.mozlz4", (void 0)))
+1650644056313	Marionette	INFO	Listening on port 37565
+1650644056329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650644058519	Marionette	INFO	Stopped listening on port 37565
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650644220493	geckodriver	INFO	Listening on 127.0.0.1:33317
+1650644220496	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileXJsgZv"
+*** You are running in headless mode.
+
+(firefox:34626): Gtk-WARNING **: 21:47:00.515: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644220701	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXJsgZv/search.json.mozlz4", (void 0)))
+1650644221449	Marionette	INFO	Listening on port 34927
+1650644221510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650644252553	geckodriver	INFO	Listening on 127.0.0.1:44805
+1650644252556	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile0Sgara"
+*** You are running in headless mode.
+
+(firefox:35350): Gtk-WARNING **: 21:47:32.574: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644252762	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Sgara/search.json.mozlz4", (void 0)))
+1650644253547	Marionette	INFO	Listening on port 33781
+1650644253573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650644255775	Marionette	INFO	Stopped listening on port 33781
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650644280893	geckodriver	INFO	Listening on 127.0.0.1:39009
+1650644280896	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileC4NZJu"
+*** You are running in headless mode.
+
+(firefox:35807): Gtk-WARNING **: 21:48:00.915: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644281102	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC4NZJu/search.json.mozlz4", (void 0)))
+1650644281918	Marionette	INFO	Listening on port 42927
+1650644282008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650644289092	Marionette	INFO	Stopped listening on port 42927
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650644368235	geckodriver	INFO	Listening on 127.0.0.1:39943
+1650644368237	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilefHTa1U"
+*** You are running in headless mode.
+
+(firefox:36538): Gtk-WARNING **: 21:49:28.257: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644368452	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefHTa1U/search.json.mozlz4", (void 0)))
+1650644369163	Marionette	INFO	Listening on port 39657
+1650644369283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650644378517	Marionette	INFO	Stopped listening on port 39657
+1650644468474	geckodriver	INFO	Listening on 127.0.0.1:41473
+1650644468477	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilemy4rdg"
+*** You are running in headless mode.
+
+(firefox:37508): Gtk-WARNING **: 21:51:08.496: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644468685	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemy4rdg/search.json.mozlz4", (void 0)))
+1650644469415	Marionette	INFO	Listening on port 41191
+1650644469544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650644476788	Marionette	INFO	Stopped listening on port 41191
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650644499591	geckodriver	INFO	Listening on 127.0.0.1:56181
+1650644499595	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileI4aJXY"
+*** You are running in headless mode.
+
+(firefox:38053): Gtk-WARNING **: 21:51:39.615: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644499803	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI4aJXY/search.json.mozlz4", (void 0)))
+1650644500591	Marionette	INFO	Listening on port 36773
+1650644500608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650644503694	Marionette	INFO	Stopped listening on port 36773
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650644552751	geckodriver	INFO	Listening on 127.0.0.1:48531
+1650644552754	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile35snHt"
+*** You are running in headless mode.
+
+(firefox:38427): Gtk-WARNING **: 21:52:32.774: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644552961	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile35snHt/search.json.mozlz4", (void 0)))
+1650644553745	Marionette	INFO	Listening on port 37379
+1650644553767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650644692724	geckodriver	INFO	Listening on 127.0.0.1:35557
+1650644692726	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileDPoinK"
+*** You are running in headless mode.
+
+(firefox:39375): Gtk-WARNING **: 21:54:52.745: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650644692932	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDPoinK/search.json.mozlz4", (void 0)))
+1650644693739	Marionette	INFO	Listening on port 33621
+1650644693855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650644700904	Marionette	INFO	Stopped listening on port 33621
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650645418219	geckodriver	INFO	Listening on 127.0.0.1:36083
+1650645418221	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilei9dP17"
+*** You are running in headless mode.
+
+(firefox:41528): Gtk-WARNING **: 22:06:58.240: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650645418427	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei9dP17/search.json.mozlz4", (void 0)))
+1650645419193	Marionette	INFO	Listening on port 35069
+1650645419235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650645426985	Marionette	INFO	Stopped listening on port 35069
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650645529844	geckodriver	INFO	Listening on 127.0.0.1:40321
+1650645529847	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilejrzaqN"
+*** You are running in headless mode.
+
+(firefox:42650): Gtk-WARNING **: 22:08:49.867: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650645530054	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejrzaqN/search.json.mozlz4", (void 0)))
+1650645530846	Marionette	INFO	Listening on port 43445
+1650645530861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650645555441	geckodriver	INFO	Listening on 127.0.0.1:45071
+1650645555444	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileOL5z3r"
+*** You are running in headless mode.
+
+(firefox:43571): Gtk-WARNING **: 22:09:15.467: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650645555653	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOL5z3r/search.json.mozlz4", (void 0)))
+1650645556458	Marionette	INFO	Listening on port 42215
+1650645556567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650645695450	geckodriver	INFO	Listening on 127.0.0.1:57865
+1650645695453	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilexJDjBg"
+*** You are running in headless mode.
+
+(firefox:44754): Gtk-WARNING **: 22:11:35.474: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650645695658	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexJDjBg/search.json.mozlz4", (void 0)))
+1650645696391	Marionette	INFO	Listening on port 36927
+1650645696475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650645699064	Marionette	INFO	Stopped listening on port 36927
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650645712915	geckodriver	INFO	Listening on 127.0.0.1:32831
+1650645712918	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileIUewJG"
+*** You are running in headless mode.
+
+(firefox:45217): Gtk-WARNING **: 22:11:52.937: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650645713122	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIUewJG/search.json.mozlz4", (void 0)))
+1650645713903	Marionette	INFO	Listening on port 38391
+1650645713932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650645716437	Marionette	INFO	Stopped listening on port 38391
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650645733118	geckodriver	INFO	Listening on 127.0.0.1:55469
+1650645733121	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile1SbOfL"
+*** You are running in headless mode.
+
+(firefox:45681): Gtk-WARNING **: 22:12:13.141: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650645733326	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1SbOfL/search.json.mozlz4", (void 0)))
+1650645734083	Marionette	INFO	Listening on port 38697
+1650645734139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650645741391	Marionette	INFO	Stopped listening on port 38697
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650645947721	geckodriver	INFO	Listening on 127.0.0.1:34483
+1650645947724	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileCmi0GK"
+*** You are running in headless mode.
+
+(firefox:46614): Gtk-WARNING **: 22:15:47.744: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650645947932	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCmi0GK/search.json.mozlz4", (void 0)))
+1650645948767	Marionette	INFO	Listening on port 40235
+1650645948866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650645950968	Marionette	INFO	Stopped listening on port 40235
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650645971963	geckodriver	INFO	Listening on 127.0.0.1:60591
+1650645971967	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileaNA57E"
+*** You are running in headless mode.
+
+(firefox:47226): Gtk-WARNING **: 22:16:11.988: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650645972175	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaNA57E/search.json.mozlz4", (void 0)))
+1650645973001	Marionette	INFO	Listening on port 44199
+1650645973096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650645979249	Marionette	INFO	Stopped listening on port 44199
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650646067655	geckodriver	INFO	Listening on 127.0.0.1:44305
+1650646067658	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileaGv6n3"
+*** You are running in headless mode.
+
+(firefox:48329): Gtk-WARNING **: 22:17:47.678: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646067863	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaGv6n3/search.json.mozlz4", (void 0)))
+1650646068682	Marionette	INFO	Listening on port 46001
+1650646068807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646111932	geckodriver	INFO	Listening on 127.0.0.1:54221
+1650646111934	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileUZZ5Hu"
+*** You are running in headless mode.
+
+(firefox:49090): Gtk-WARNING **: 22:18:31.960: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646112147	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUZZ5Hu/search.json.mozlz4", (void 0)))
+1650646112920	Marionette	INFO	Listening on port 42813
+1650646112948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646119675	Marionette	INFO	Stopped listening on port 42813
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650646176085	geckodriver	INFO	Listening on 127.0.0.1:46613
+1650646176088	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNPWIIb"
+*** You are running in headless mode.
+
+(firefox:49952): Gtk-WARNING **: 22:19:36.107: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646176304	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNPWIIb/search.json.mozlz4", (void 0)))
+1650646177089	Marionette	INFO	Listening on port 37261
+1650646177102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646243695	geckodriver	INFO	Listening on 127.0.0.1:59761
+1650646243700	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileLVIG0d"
+*** You are running in headless mode.
+
+(firefox:50746): Gtk-WARNING **: 22:20:43.721: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646243910	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLVIG0d/search.json.mozlz4", (void 0)))
+1650646244741	Marionette	INFO	Listening on port 43283
+1650646244812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646319928	geckodriver	INFO	Listening on 127.0.0.1:44887
+1650646320954	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileG7ytsv"
+*** You are running in headless mode.
+
+(firefox:51790): Gtk-WARNING **: 22:22:01.014: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646321222	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG7ytsv/search.json.mozlz4", (void 0)))
+1650646322015	Marionette	INFO	Listening on port 43979
+1650646322072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646329559	Marionette	INFO	Stopped listening on port 43979
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650646389662	geckodriver	INFO	Listening on 127.0.0.1:59173
+1650646389665	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileEPBhfy"
+*** You are running in headless mode.
+
+(firefox:52581): Gtk-WARNING **: 22:23:09.685: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646389872	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEPBhfy/search.json.mozlz4", (void 0)))
+1650646390623	Marionette	INFO	Listening on port 40317
+1650646390678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646398757	Marionette	INFO	Stopped listening on port 40317
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650646411812	geckodriver	INFO	Listening on 127.0.0.1:49961
+1650646411815	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilexu8lVW"
+*** You are running in headless mode.
+
+(firefox:53278): Gtk-WARNING **: 22:23:31.835: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646412026	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexu8lVW/search.json.mozlz4", (void 0)))
+1650646412746	Marionette	INFO	Listening on port 40637
+1650646412827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646420454	Marionette	INFO	Stopped listening on port 40637
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650646471351	geckodriver	INFO	Listening on 127.0.0.1:38161
+1650646471354	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile8acYLS"
+*** You are running in headless mode.
+
+(firefox:53947): Gtk-WARNING **: 22:24:31.374: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646471561	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8acYLS/search.json.mozlz4", (void 0)))
+1650646472323	Marionette	INFO	Listening on port 33075
+1650646472367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646521789	geckodriver	INFO	Listening on 127.0.0.1:58123
+1650646521794	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileJLe5fv"
+*** You are running in headless mode.
+
+(firefox:54934): Gtk-WARNING **: 22:25:21.814: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646522004	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJLe5fv/search.json.mozlz4", (void 0)))
+1650646522788	Marionette	INFO	Listening on port 43349
+1650646522817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646686462	geckodriver	INFO	Listening on 127.0.0.1:51293
+1650646686465	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile7gbrE7"
+*** You are running in headless mode.
+
+(firefox:56384): Gtk-WARNING **: 22:28:06.487: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646686682	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7gbrE7/search.json.mozlz4", (void 0)))
+1650646687489	Marionette	INFO	Listening on port 35177
+1650646687594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646724767	geckodriver	INFO	Listening on 127.0.0.1:45163
+1650646724770	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilecKoXbu"
+*** You are running in headless mode.
+
+(firefox:57261): Gtk-WARNING **: 22:28:44.791: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646724993	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecKoXbu/search.json.mozlz4", (void 0)))
+1650646725804	Marionette	INFO	Listening on port 37505
+1650646725883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646796419	geckodriver	INFO	Listening on 127.0.0.1:50291
+1650646796422	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilem3ZLb4"
+*** You are running in headless mode.
+
+(firefox:58109): Gtk-WARNING **: 22:29:56.443: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646796633	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem3ZLb4/search.json.mozlz4", (void 0)))
+1650646797404	Marionette	INFO	Listening on port 36183
+1650646797436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646805722	Marionette	INFO	Stopped listening on port 36183
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650646834415	geckodriver	INFO	Listening on 127.0.0.1:32917
+1650646835441	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile5Ec98R"
+*** You are running in headless mode.
+
+(firefox:58673): Gtk-WARNING **: 22:30:35.502: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646835694	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5Ec98R/search.json.mozlz4", (void 0)))
+1650646836479	Marionette	INFO	Listening on port 41117
+1650646836560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646838844	Marionette	INFO	Stopped listening on port 41117
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650646855802	geckodriver	INFO	Listening on 127.0.0.1:38527
+1650646855805	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilePIo40W"
+*** You are running in headless mode.
+
+(firefox:59170): Gtk-WARNING **: 22:30:55.826: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646856013	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePIo40W/search.json.mozlz4", (void 0)))
+1650646856770	Marionette	INFO	Listening on port 42145
+1650646856819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646898443	geckodriver	INFO	Listening on 127.0.0.1:35715
+1650646898446	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilextPaeX"
+*** You are running in headless mode.
+
+(firefox:60254): Gtk-WARNING **: 22:31:38.466: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646898655	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilextPaeX/search.json.mozlz4", (void 0)))
+1650646899471	Marionette	INFO	Listening on port 35287
+1650646899596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646935754	geckodriver	INFO	Listening on 127.0.0.1:39489
+1650646935757	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile3UIGfc"
+*** You are running in headless mode.
+
+(firefox:61078): Gtk-WARNING **: 22:32:15.778: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646935977	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3UIGfc/search.json.mozlz4", (void 0)))
+1650646936818	Marionette	INFO	Listening on port 42517
+1650646936870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646944293	Marionette	INFO	Stopped listening on port 42517
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650646959454	geckodriver	INFO	Listening on 127.0.0.1:56193
+1650646960480	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileRy0xM1"
+*** You are running in headless mode.
+
+(firefox:61577): Gtk-WARNING **: 22:32:40.537: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646960731	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRy0xM1/search.json.mozlz4", (void 0)))
+1650646961504	Marionette	INFO	Listening on port 38351
+1650646961631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650646968847	Marionette	INFO	Stopped listening on port 38351
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650646988299	geckodriver	INFO	Listening on 127.0.0.1:35753
+1650646988302	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilecCYc58"
+*** You are running in headless mode.
+
+(firefox:62308): Gtk-WARNING **: 22:33:08.323: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650646988515	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecCYc58/search.json.mozlz4", (void 0)))
+1650646989300	Marionette	INFO	Listening on port 45423
+1650646989328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650647065563	geckodriver	INFO	Listening on 127.0.0.1:34603
+1650647065566	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilek6nuao"
+*** You are running in headless mode.
+
+(firefox:63126): Gtk-WARNING **: 22:34:25.586: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650647065775	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek6nuao/search.json.mozlz4", (void 0)))
+1650647066594	Marionette	INFO	Listening on port 41493
+1650647066678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650647075058	Marionette	INFO	Stopped listening on port 41493
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650647217013	geckodriver	INFO	Listening on 127.0.0.1:55517
+1650647218018	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileZgqTMu"
+*** You are running in headless mode.
+
+(firefox:64271): Gtk-WARNING **: 22:36:58.040: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650647218297	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZgqTMu/search.json.mozlz4", (void 0)))
+1650647219279	Marionette	INFO	Listening on port 43249
+1650647219356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650647267078	geckodriver	INFO	Listening on 127.0.0.1:52369
+1650647268087	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile7UEiio"
+*** You are running in headless mode.
+
+(firefox:65218): Gtk-WARNING **: 22:37:48.220: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650647268961	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7UEiio/search.json.mozlz4", (void 0)))
+1650648505356	geckodriver	INFO	Listening on 127.0.0.1:47493
+1650648506379	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileTLJg0m"
+*** You are running in headless mode.
+
+(firefox:2540): Gtk-WARNING **: 22:58:26.516: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650648506980	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTLJg0m/search.json.mozlz4", (void 0)))
+1650648508093	Marionette	INFO	Listening on port 42767
+1650648508199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650648550678	geckodriver	INFO	Listening on 127.0.0.1:46069
+1650648550682	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileQvKCgo"
+*** You are running in headless mode.
+
+(firefox:3231): Gtk-WARNING **: 22:59:10.703: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650648550915	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQvKCgo/search.json.mozlz4", (void 0)))
+1650648551791	Marionette	INFO	Listening on port 43327
+1650648551934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650648589741	geckodriver	INFO	Listening on 127.0.0.1:37839
+1650648589744	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilewc6cDP"
+*** You are running in headless mode.
+
+(firefox:4011): Gtk-WARNING **: 22:59:49.769: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650648589982	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewc6cDP/search.json.mozlz4", (void 0)))
+1650648590874	Marionette	INFO	Listening on port 35253
+1650648590959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650648619633	geckodriver	INFO	Listening on 127.0.0.1:34189
+1650648619637	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileMo4U00"
+*** You are running in headless mode.
+
+(firefox:4749): Gtk-WARNING **: 23:00:19.659: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650648619877	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMo4U00/search.json.mozlz4", (void 0)))
+1650648620872	Marionette	INFO	Listening on port 42711
+1650648620961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650648630405	Marionette	INFO	Stopped listening on port 42711
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650648810287	geckodriver	INFO	Listening on 127.0.0.1:52867
+1650648810292	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileI7xug0"
+*** You are running in headless mode.
+
+(firefox:5630): Gtk-WARNING **: 23:03:30.314: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650648810526	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI7xug0/search.json.mozlz4", (void 0)))
+1650648811423	Marionette	INFO	Listening on port 34075
+1650648811527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650648840667	geckodriver	INFO	Listening on 127.0.0.1:33527
+1650648840671	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileLXncEl"
+*** You are running in headless mode.
+
+(firefox:6320): Gtk-WARNING **: 23:04:00.694: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650648840905	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLXncEl/search.json.mozlz4", (void 0)))
+1650648841820	Marionette	INFO	Listening on port 34519
+1650648841886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650648854303	Marionette	INFO	Stopped listening on port 34519
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1650649021929	geckodriver	INFO	Listening on 127.0.0.1:48953
+1650649021934	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileeCiIRi"
+*** You are running in headless mode.
+
+(firefox:8849): Gtk-WARNING **: 23:07:01.956: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650649022173	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeCiIRi/search.json.mozlz4", (void 0)))
+1650649023106	Marionette	INFO	Listening on port 41367
+1650649023154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650649032009	Marionette	INFO	Stopped listening on port 41367
+1650649051783	geckodriver	INFO	Listening on 127.0.0.1:41109
+1650649051787	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileZz4sEi"
+*** You are running in headless mode.
+
+(firefox:9586): Gtk-WARNING **: 23:07:31.810: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650649052022	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZz4sEi/search.json.mozlz4", (void 0)))
+1650649052943	Marionette	INFO	Listening on port 41089
+1650649053003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650649102117	geckodriver	INFO	Listening on 127.0.0.1:57003
+1650649102122	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileeDmfkL"
+*** You are running in headless mode.
+
+(firefox:10258): Gtk-WARNING **: 23:08:22.145: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650649102361	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeDmfkL/search.json.mozlz4", (void 0)))
+1650649103297	Marionette	INFO	Listening on port 40091
+1650649103337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650649462469	geckodriver	INFO	Listening on 127.0.0.1:51649
+1650649462473	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileSrXA4R"
+*** You are running in headless mode.
+
+(firefox:12196): Gtk-WARNING **: 23:14:22.498: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650649462743	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSrXA4R/search.json.mozlz4", (void 0)))
+1650649463729	Marionette	INFO	Listening on port 45087
+1650649463792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650649471655	Marionette	INFO	Stopped listening on port 45087
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650649484306	geckodriver	INFO	Listening on 127.0.0.1:41085
+1650649484311	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileu0Ot2G"
+*** You are running in headless mode.
+
+(firefox:12897): Gtk-WARNING **: 23:14:44.333: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650649484548	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu0Ot2G/search.json.mozlz4", (void 0)))
+1650649485467	Marionette	INFO	Listening on port 37559
+1650649485542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650649540687	geckodriver	INFO	Listening on 127.0.0.1:41655
+1650649540691	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileZRhsJv"
+*** You are running in headless mode.
+
+(firefox:13743): Gtk-WARNING **: 23:15:40.715: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650649540944	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZRhsJv/search.json.mozlz4", (void 0)))
+1650649541843	Marionette	INFO	Listening on port 37279
+1650649541909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650649552467	Marionette	INFO	Stopped listening on port 37279
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650649937641	geckodriver	INFO	Listening on 127.0.0.1:52151
+1650649937645	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileok7XVe"
+*** You are running in headless mode.
+
+(firefox:15468): Gtk-WARNING **: 17:52:17.671: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650649937948	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileok7XVe/search.json.mozlz4", (void 0)))
+1650649938961	Marionette	INFO	Listening on port 36517
+1650649939061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650649947895	Marionette	INFO	Stopped listening on port 36517
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1650650040806	geckodriver	INFO	Listening on 127.0.0.1:51375
+1650650040810	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileEtq7kG"
+*** You are running in headless mode.
+
+(firefox:16568): Gtk-WARNING **: 17:54:00.829: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650650041051	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEtq7kG/search.json.mozlz4", (void 0)))
+1650650041963	Marionette	INFO	Listening on port 39233
+1650650042026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650650112009	geckodriver	INFO	Listening on 127.0.0.1:51189
+1650650112013	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileS8FKJg"
+*** You are running in headless mode.
+
+(firefox:17531): Gtk-WARNING **: 17:55:12.033: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650650112267	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS8FKJg/search.json.mozlz4", (void 0)))
+1650650113281	Marionette	INFO	Listening on port 38621
+1650650113329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650650143888	Marionette	INFO	Stopped listening on port 38621
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650650410527	geckodriver	INFO	Listening on 127.0.0.1:59737
+1650650410530	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileSpD8dq"
+*** You are running in headless mode.
+
+(firefox:18554): Gtk-WARNING **: 18:00:10.551: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650650410791	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSpD8dq/search.json.mozlz4", (void 0)))
+1650650411754	Marionette	INFO	Listening on port 44673
+1650650411866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650650621053	geckodriver	INFO	Listening on 127.0.0.1:44845
+1650650621057	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilea0LOFw"
+*** You are running in headless mode.
+
+(firefox:19849): Gtk-WARNING **: 18:03:41.076: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650650621306	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea0LOFw/search.json.mozlz4", (void 0)))
+1650650622275	Marionette	INFO	Listening on port 34033
+1650650622404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650650657930	Marionette	INFO	Stopped listening on port 34033
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650650811846	geckodriver	INFO	Listening on 127.0.0.1:58861
+1650650811849	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiletGmT5I"
+*** You are running in headless mode.
+
+(firefox:21087): Gtk-WARNING **: 18:06:51.870: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650650812118	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletGmT5I/search.json.mozlz4", (void 0)))
+1650650813107	Marionette	INFO	Listening on port 41233
+1650650813180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650651013430	geckodriver	INFO	Listening on 127.0.0.1:38493
+1650651013434	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilec9SLM8"
+*** You are running in headless mode.
+
+(firefox:22309): Gtk-WARNING **: 18:10:13.457: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650651013706	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec9SLM8/search.json.mozlz4", (void 0)))
+1650651014669	Marionette	INFO	Listening on port 38731
+1650651014753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650651257070	geckodriver	INFO	Listening on 127.0.0.1:57219
+1650651257073	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilefFbzxw"
+*** You are running in headless mode.
+
+(firefox:24322): Gtk-WARNING **: 18:14:17.095: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650651257325	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefFbzxw/search.json.mozlz4", (void 0)))
+1650651258270	Marionette	INFO	Listening on port 43627
+1650651258293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650651403564	geckodriver	INFO	Listening on 127.0.0.1:58845
+1650651403569	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile2qJyqU"
+*** You are running in headless mode.
+
+(firefox:25384): Gtk-WARNING **: 18:16:43.591: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650651403860	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2qJyqU/search.json.mozlz4", (void 0)))
+1650651404945	Marionette	INFO	Listening on port 38903
+1650651404987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650651528552	geckodriver	INFO	Listening on 127.0.0.1:55233
+1650651528556	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNCdevq"
+*** You are running in headless mode.
+
+(firefox:26592): Gtk-WARNING **: 18:18:48.579: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650651528844	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNCdevq/search.json.mozlz4", (void 0)))
+1650651529911	Marionette	INFO	Listening on port 38701
+1650651529978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650651748701	geckodriver	INFO	Listening on 127.0.0.1:56833
+1650651748709	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilekAfRbl"
+*** You are running in headless mode.
+
+(firefox:28486): Gtk-WARNING **: 18:22:28.732: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650651748975	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekAfRbl/search.json.mozlz4", (void 0)))
+1650651749951	Marionette	INFO	Listening on port 35523
+1650651750028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650652178444	geckodriver	INFO	Listening on 127.0.0.1:35099
+1650652178447	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiledjXOHF"
+*** You are running in headless mode.
+
+(firefox:30922): Gtk-WARNING **: 18:29:38.467: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650652178691	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledjXOHF/search.json.mozlz4", (void 0)))
+1650652179631	Marionette	INFO	Listening on port 42063
+1650652179666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650652278061	geckodriver	INFO	Listening on 127.0.0.1:35045
+1650652278065	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileFEDRaO"
+*** You are running in headless mode.
+
+(firefox:32012): Gtk-WARNING **: 18:31:18.093: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650652278364	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFEDRaO/search.json.mozlz4", (void 0)))
+1650652279455	Marionette	INFO	Listening on port 33365
+1650652279493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650652304489	geckodriver	INFO	Listening on 127.0.0.1:53047
+1650652304493	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNLAx12"
+*** You are running in headless mode.
+
+(firefox:32774): Gtk-WARNING **: 18:31:44.513: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650652304752	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNLAx12/search.json.mozlz4", (void 0)))
+1650652305759	Marionette	INFO	Listening on port 38953
+1650652305808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650652314539	Marionette	INFO	Stopped listening on port 38953
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650652406933	geckodriver	INFO	Listening on 127.0.0.1:34305
+1650652406941	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilekiUwdZ"
+*** You are running in headless mode.
+
+(firefox:33763): Gtk-WARNING **: 18:33:26.964: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650652407202	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekiUwdZ/search.json.mozlz4", (void 0)))
+1650652408208	Marionette	INFO	Listening on port 38861
+1650652408284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650652416997	Marionette	INFO	Stopped listening on port 38861
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650652644954	geckodriver	INFO	Listening on 127.0.0.1:58815
+1650652644958	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileyga3xw"
+*** You are running in headless mode.
+
+(firefox:35151): Gtk-WARNING **: 18:37:24.989: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650652645278	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyga3xw/search.json.mozlz4", (void 0)))
+1650652646250	Marionette	INFO	Listening on port 35655
+1650652646278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650653595289	geckodriver	INFO	Listening on 127.0.0.1:35311
+1650653595296	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilexJxMXe"
+*** You are running in headless mode.
+
+(firefox:38503): Gtk-WARNING **: 18:53:15.319: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650653595553	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexJxMXe/search.json.mozlz4", (void 0)))
+1650653596460	Marionette	INFO	Listening on port 35263
+1650653596516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650653626275	geckodriver	INFO	Listening on 127.0.0.1:36165
+1650653626278	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileN0Ktru"
+*** You are running in headless mode.
+
+(firefox:39229): Gtk-WARNING **: 18:53:46.306: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650653626543	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN0Ktru/search.json.mozlz4", (void 0)))
+1650653627569	Marionette	INFO	Listening on port 33733
+1650653627597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650653678481	geckodriver	INFO	Listening on 127.0.0.1:37379
+1650653678484	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilelVtLSv"
+*** You are running in headless mode.
+
+(firefox:40243): Gtk-WARNING **: 18:54:38.506: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650653678767	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelVtLSv/search.json.mozlz4", (void 0)))
+1650653679791	Marionette	INFO	Listening on port 36479
+1650653679903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650653732421	geckodriver	INFO	Listening on 127.0.0.1:42819
+1650653732425	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile6YQxPP"
+*** You are running in headless mode.
+
+(firefox:41318): Gtk-WARNING **: 18:55:32.445: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650653732677	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6YQxPP/search.json.mozlz4", (void 0)))
+1650653733602	Marionette	INFO	Listening on port 41039
+1650653733640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650655188581	Marionette	INFO	Stopped listening on port 40091
+1650655188614	Marionette	INFO	Stopped listening on port 43327
+1650655188638	Marionette	INFO	Stopped listening on port 34075
+1650655188651	Marionette	INFO	Stopped listening on port 37559
+1650655188651	Marionette	INFO	Stopped listening on port 35253
+1650655188657	Marionette	INFO	Stopped listening on port 41089
+1650655188672	Marionette	INFO	Stopped listening on port 42767
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PBrowser::Msg_Destroy) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RemoveDynEntriesFromActiveSessionHistoryEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_SynchronizeLayoutHistoryState) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650671093949	geckodriver	INFO	Listening on 127.0.0.1:38927
+1650671094972	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileSiFgVS"
+*** You are running in headless mode.
+
+(firefox:4633): Gtk-WARNING **: 23:44:55.036: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671095229	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSiFgVS/search.json.mozlz4", (void 0)))
+1650671096044	Marionette	INFO	Listening on port 39759
+1650671096133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650671153956	geckodriver	INFO	Listening on 127.0.0.1:52799
+1650671153958	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileYvW5wz"
+*** You are running in headless mode.
+
+(firefox:5425): Gtk-WARNING **: 23:45:53.976: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671154173	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYvW5wz/search.json.mozlz4", (void 0)))
+1650671154948	Marionette	INFO	Listening on port 35363
+1650671154970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650671360588	geckodriver	INFO	Listening on 127.0.0.1:35875
+1650671360592	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileMXqziw"
+*** You are running in headless mode.
+
+(firefox:6397): Gtk-WARNING **: 23:49:20.610: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671360796	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMXqziw/search.json.mozlz4", (void 0)))
+1650671361561	Marionette	INFO	Listening on port 40245
+1650671361649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650671474022	geckodriver	INFO	Listening on 127.0.0.1:60599
+1650671474025	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilepqXaN8"
+*** You are running in headless mode.
+
+(firefox:7316): Gtk-WARNING **: 23:51:14.044: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671474229	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepqXaN8/search.json.mozlz4", (void 0)))
+1650671474996	Marionette	INFO	Listening on port 43745
+1650671475037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650671509516	geckodriver	INFO	Listening on 127.0.0.1:37015
+1650671509518	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileW89xT8"
+*** You are running in headless mode.
+
+(firefox:8302): Gtk-WARNING **: 23:51:49.538: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671509723	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW89xT8/search.json.mozlz4", (void 0)))
+1650671510469	Marionette	INFO	Listening on port 41441
+1650671510576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650671546028	geckodriver	INFO	Listening on 127.0.0.1:43951
+1650671546031	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilexAtM77"
+*** You are running in headless mode.
+
+(firefox:9371): Gtk-WARNING **: 23:52:26.051: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671546248	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexAtM77/search.json.mozlz4", (void 0)))
+1650671547061	Marionette	INFO	Listening on port 34957
+1650671547145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650671710025	geckodriver	INFO	Listening on 127.0.0.1:51331
+1650671710028	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileWsx09I"
+*** You are running in headless mode.
+
+(firefox:10665): Gtk-WARNING **: 23:55:10.047: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671710246	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWsx09I/search.json.mozlz4", (void 0)))
+1650671710993	Marionette	INFO	Listening on port 36299
+1650671711042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650671742926	geckodriver	INFO	Listening on 127.0.0.1:42549
+1650671742929	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileRLiNMb"
+*** You are running in headless mode.
+
+(firefox:11824): Gtk-WARNING **: 23:55:42.948: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671743143	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRLiNMb/search.json.mozlz4", (void 0)))
+1650671743960	Marionette	INFO	Listening on port 37263
+1650671744041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650671767545	geckodriver	INFO	Listening on 127.0.0.1:49363
+1650671767549	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileEu2LTL"
+*** You are running in headless mode.
+
+(firefox:13038): Gtk-WARNING **: 23:56:07.568: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671767771	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEu2LTL/search.json.mozlz4", (void 0)))
+1650671768551	Marionette	INFO	Listening on port 38553
+1650671768661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650671862953	geckodriver	INFO	Listening on 127.0.0.1:40407
+1650671862956	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileTENtPN"
+*** You are running in headless mode.
+
+(firefox:14079): Gtk-WARNING **: 23:57:42.976: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650671863175	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTENtPN/search.json.mozlz4", (void 0)))
+1650671864001	Marionette	INFO	Listening on port 33029
+1650671864068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650672115459	geckodriver	INFO	Listening on 127.0.0.1:45595
+1650672115462	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilediLsot"
+*** You are running in headless mode.
+
+(firefox:15762): Gtk-WARNING **: 00:01:55.481: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650672115668	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilediLsot/search.json.mozlz4", (void 0)))
+1650672116476	Marionette	INFO	Listening on port 36313
+1650672116574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650672170112	geckodriver	INFO	Listening on 127.0.0.1:44453
+1650672170115	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileifwYtR"
+*** You are running in headless mode.
+
+(firefox:17015): Gtk-WARNING **: 00:02:50.134: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650672170322	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileifwYtR/search.json.mozlz4", (void 0)))
+1650672171062	Marionette	INFO	Listening on port 39301
+1650672171132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650672212295	geckodriver	INFO	Listening on 127.0.0.1:43327
+1650672212298	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilePuZQ8e"
+*** You are running in headless mode.
+
+(firefox:18401): Gtk-WARNING **: 00:03:32.317: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650672212505	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePuZQ8e/search.json.mozlz4", (void 0)))
+1650672213282	Marionette	INFO	Listening on port 45193
+1650672213312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650682520372	geckodriver	INFO	Listening on 127.0.0.1:54165
+1650682521394	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile9l3Zpz"
+*** You are running in headless mode.
+
+(firefox:10492): Gtk-WARNING **: 02:55:21.456: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650682521683	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9l3Zpz/search.json.mozlz4", (void 0)))
+1650682522634	Marionette	INFO	Listening on port 36795
+1650682522715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650686096522	geckodriver	INFO	Listening on 127.0.0.1:40333
+1650686097538	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileKS3aum"
+*** You are running in headless mode.
+
+(firefox:3207): Gtk-WARNING **: 03:54:57.559: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650686097784	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKS3aum/search.json.mozlz4", (void 0)))
+1650686098801	Marionette	INFO	Listening on port 33853
+1650686098859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650686156116	Marionette	INFO	Stopped listening on port 33853
+1650686735029	geckodriver	INFO	Listening on 127.0.0.1:47575
+1650686735032	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileT6OLZQ"
+*** You are running in headless mode.
+
+(firefox:5078): Gtk-WARNING **: 04:05:35.052: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650686735267	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT6OLZQ/search.json.mozlz4", (void 0)))
+1650686736232	Marionette	INFO	Listening on port 44845
+1650686736251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650686760766	Marionette	INFO	Stopped listening on port 44845
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650686822916	geckodriver	INFO	Listening on 127.0.0.1:37209
+1650686822919	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilec6mw60"
+*** You are running in headless mode.
+
+(firefox:5748): Gtk-WARNING **: 04:07:02.940: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650686823202	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec6mw60/search.json.mozlz4", (void 0)))
+1650686824205	Marionette	INFO	Listening on port 38575
+1650686824239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650686882539	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1650686902154	geckodriver	INFO	Listening on 127.0.0.1:60679
+1650686902158	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile4wR9hC"
+*** You are running in headless mode.
+
+(firefox:6563): Gtk-WARNING **: 04:08:22.179: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650686902452	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4wR9hC/search.json.mozlz4", (void 0)))
+1650686903540	Marionette	INFO	Listening on port 34277
+1650686903576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650686973963	Marionette	INFO	Stopped listening on port 34277
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650687048545	geckodriver	INFO	Listening on 127.0.0.1:58297
+1650687048548	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileaUKrFK"
+*** You are running in headless mode.
+
+(firefox:7541): Gtk-WARNING **: 04:10:48.568: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650687048795	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaUKrFK/search.json.mozlz4", (void 0)))
+1650687049784	Marionette	INFO	Listening on port 44917
+1650687049879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650687098382	geckodriver	INFO	Listening on 127.0.0.1:54211
+1650687098389	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiledaGI78"
+*** You are running in headless mode.
+
+(firefox:8097): Gtk-WARNING **: 04:11:38.411: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650687098641	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledaGI78/search.json.mozlz4", (void 0)))
+1650687099634	Marionette	INFO	Listening on port 36811
+1650687099713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650687156032	Marionette	INFO	Stopped listening on port 36811
+1650687206423	geckodriver	INFO	Listening on 127.0.0.1:35871
+1650687206426	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilekbyP3J"
+*** You are running in headless mode.
+
+(firefox:8786): Gtk-WARNING **: 04:13:26.445: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650687206664	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekbyP3J/search.json.mozlz4", (void 0)))
+1650687207681	Marionette	INFO	Listening on port 43965
+1650687207750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650687248474	Marionette	INFO	Stopped listening on port 43965
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650687333552	geckodriver	INFO	Listening on 127.0.0.1:33029
+1650687333555	mozrunner::runner	INFO	Running command: "/usr/include/firefox/firefox-bin" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile3785DX"
+*** You are running in headless mode.
+
+(firefox:9844): Gtk-WARNING **: 04:15:33.575: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1650687333795	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3785DX/search.json.mozlz4", (void 0)))
+1650687334753	Marionette	INFO	Listening on port 44555
+1650687334775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650687352148	Marionette	INFO	Stopped listening on port 44555
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
