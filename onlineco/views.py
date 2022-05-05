@@ -12,12 +12,12 @@ def search(request):
         learning = request.POST.get('learning')
         import json
         import yaml
-        client_id  = 'T5y5mVUIcHiapB170Vs0gevyqqaXUOwcSwh6REU6'
-        client_secret = 'I3jdQPvw4oLESZ1ydtFaPAP8SBSyhMAvlzlV6h6dJQYGuqKCh9GVI9F5fdwz5sioZjPckoEYKHhHC64tjn5obS2VvFjMFaBVuY2tIlop6uohzLqFrmwBpKtMugksznRV'
+        client_id  = '{yourudemyClientID}'
+        client_secret = '{ClientSecret}'
         import requests
         params  = f'{client_id}:{client_secret}'
         header = {
-            'Authorization': 'Basic {BASE64_ENCODED(T5y5mVUIcHiapB170Vs0gevyqqaXUOwcSwh6REU6:I3jdQPvw4oLESZ1ydtFaPAP8SBSyhMAvlzlV6h6dJQYGuqKCh9GVI9F5fdwz5sioZjPckoEYKHhHC64tjn5obS2VvFjMFaBVuY2tIlop6uohzLqFrmwBpKtMugksznRV)}'
+            'Authorization': 'Basic {BASE64_ENCODED(yourudemyClientID:ClientSecret)}'
         }
         if (learning != 'none'):
             query = query+' for '+learning
@@ -39,7 +39,7 @@ def search(request):
 
         print(" YOUR COURSES FROM YOUTUBE: ")
 
-        API_KEY = "AIzaSyBuvWp349EFAXikzspq2dxFvljU67mjt4c"
+        API_KEY = "{YoutubeAPIKey}"
 
         yt_search = f"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=45&q={query+'Courses'}&type=video&key={API_KEY}"
         yt_results = requests.get(yt_search)
